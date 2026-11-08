@@ -3,7 +3,7 @@ title: "TechLead Conference 2026 Autumn 参加レポート"
 emoji: "🧭"
 type: "idea"
 topics: ["AI駆動開発", "テックリード", "組織開発", "カンファレンス", "techleadconf"]
-published: false
+published: true
 ---
 
 ## はじめに
